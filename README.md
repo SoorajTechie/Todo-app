@@ -3,7 +3,6 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge)](https://soorajnp-todo-app.netlify.app/)
 
-![Todo App Screenshot](https://via.placeholder.com/800x400?text=Todo+App+Screenshot) *(Replace with actual screenshot)*
 
 ## Features ✨
 - ✅ **Add, edit, and delete tasks**
